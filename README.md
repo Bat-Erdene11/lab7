@@ -2,4 +2,4 @@
 Git
 Git Bash
 GitHub account
-· Интернэт холболт
+· Интернэт холболт,
